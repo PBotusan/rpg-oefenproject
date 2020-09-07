@@ -1,7 +1,238 @@
 fileFormatVersion: 2
 guid: ff937d01b27f21d408c0af1526256804
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5931144226451071882
+    second: Powers_0
+  - first:
+      213: 8758059650611868188
+    second: Powers_1
+  - first:
+      213: -6202743791776858771
+    second: Powers_2
+  - first:
+      213: 1401247066575854814
+    second: Powers_3
+  - first:
+      213: 4786578252275087462
+    second: Powers_4
+  - first:
+      213: 5903958638069096761
+    second: Powers_5
+  - first:
+      213: 3737762835101654822
+    second: Powers_6
+  - first:
+      213: 2009579973256660300
+    second: Powers_7
+  - first:
+      213: 5102231138472735442
+    second: Powers_8
+  - first:
+      213: 4328313216744736806
+    second: Powers_9
+  - first:
+      213: 4434460537572490471
+    second: Powers_10
+  - first:
+      213: 1151130422867849203
+    second: Powers_11
+  - first:
+      213: 4794495215647749593
+    second: Powers_12
+  - first:
+      213: -759816588431874280
+    second: Powers_13
+  - first:
+      213: -3370196891770709928
+    second: Powers_14
+  - first:
+      213: -6607461681689339391
+    second: Powers_15
+  - first:
+      213: 5171474161467565021
+    second: Powers_16
+  - first:
+      213: -6276120598218255134
+    second: Powers_17
+  - first:
+      213: 3203579478097968007
+    second: Powers_18
+  - first:
+      213: 6215750202510248897
+    second: Powers_19
+  - first:
+      213: 9218896524239412104
+    second: Powers_20
+  - first:
+      213: -918870411059936249
+    second: Powers_21
+  - first:
+      213: 1678438427262877195
+    second: Powers_22
+  - first:
+      213: 8788370864502978465
+    second: Powers_23
+  - first:
+      213: 7256971284550771540
+    second: Powers_24
+  - first:
+      213: 5289967744972747424
+    second: Powers_25
+  - first:
+      213: 2611445487226579674
+    second: Powers_26
+  - first:
+      213: -4543759498279769039
+    second: Powers_27
+  - first:
+      213: -2491774464022691454
+    second: Powers_28
+  - first:
+      213: 4728845027684342457
+    second: Powers_29
+  - first:
+      213: 2551444602162790318
+    second: Powers_30
+  - first:
+      213: -3286853305296849205
+    second: Powers_31
+  - first:
+      213: 5520161261018369771
+    second: Powers_32
+  - first:
+      213: 5062574435401404345
+    second: Powers_33
+  - first:
+      213: -5176866348850985309
+    second: Powers_34
+  - first:
+      213: -7707869747022908536
+    second: Powers_35
+  - first:
+      213: 4691440894498627988
+    second: Powers_36
+  - first:
+      213: -8704354940501430356
+    second: Powers_37
+  - first:
+      213: 555528339609312985
+    second: Powers_38
+  - first:
+      213: 732893058630241935
+    second: Powers_39
+  - first:
+      213: -7074630054901914493
+    second: Powers_40
+  - first:
+      213: -7559627570074487207
+    second: Powers_41
+  - first:
+      213: 681896110899307351
+    second: Powers_42
+  - first:
+      213: -409279953336401346
+    second: Powers_43
+  - first:
+      213: 8407600311241112670
+    second: Powers_44
+  - first:
+      213: -139952061571088889
+    second: Powers_45
+  - first:
+      213: -3201810050376503201
+    second: Powers_46
+  - first:
+      213: 2718287576820560156
+    second: Powers_47
+  - first:
+      213: 3298366555633981455
+    second: Powers_48
+  - first:
+      213: -4187946511303237006
+    second: Powers_49
+  - first:
+      213: 5185283035469941270
+    second: Powers_50
+  - first:
+      213: -1597508992995805689
+    second: Powers_51
+  - first:
+      213: -1046052540572413818
+    second: Powers_52
+  - first:
+      213: 3195392164536034297
+    second: Powers_53
+  - first:
+      213: -6655326104553707258
+    second: Powers_54
+  - first:
+      213: -194492892125254085
+    second: Powers_55
+  - first:
+      213: 9081403521139139729
+    second: Powers_56
+  - first:
+      213: 4367896947375877649
+    second: Powers_57
+  - first:
+      213: 6021062582233891187
+    second: Powers_58
+  - first:
+      213: -4013489749455097834
+    second: Powers_59
+  - first:
+      213: -8343380813051045204
+    second: Powers_60
+  - first:
+      213: -2147903206094740934
+    second: Powers_61
+  - first:
+      213: 3090878248604568879
+    second: Powers_62
+  - first:
+      213: 3045375345878701891
+    second: Powers_63
+  - first:
+      213: 3961656197983161804
+    second: Powers_64
+  - first:
+      213: 1760085832107714697
+    second: Powers_65
+  - first:
+      213: 2688662943952650862
+    second: Powers_66
+  - first:
+      213: -3867434549612895933
+    second: Powers_67
+  - first:
+      213: -6723251913585074527
+    second: Powers_68
+  - first:
+      213: 9526384447171374
+    second: Powers_69
+  - first:
+      213: 8111978439498424893
+    second: Powers_70
+  - first:
+      213: -2954973505421928763
+    second: Powers_71
+  - first:
+      213: -6843497866106769130
+    second: Powers_72
+  - first:
+      213: 3522184644352460532
+    second: Powers_73
+  - first:
+      213: -6478783148580377937
+    second: Powers_74
+  - first:
+      213: -8054183839075772849
+    second: Powers_75
+  - first:
+      213: -3624815564871111597
+    second: Powers_76
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +271,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +339,1624 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Powers_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf855721d119134a8f5c80477e0a8a2
+      internalID: 5931144226451071882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c1efa7660b99040bf0e36e3c6b34fe
+      internalID: 8758059650611868188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe21f1262b60a4f9e1026f5e4a1914
+      internalID: -6202743791776858771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4898a818cd32e2847b28e14d13972224
+      internalID: 1401247066575854814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974a5ee84f8ded43ba2afc685fe06e2
+      internalID: 4786578252275087462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4520de7f036f74cac473cd9bb7fc58
+      internalID: 5903958638069096761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4323bac390594ea8def1a10fff8a9
+      internalID: 3737762835101654822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60794e50cb33d42a29954ef8279f65
+      internalID: 2009579973256660300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526969a4fafc8c4591bb56b0dff0968
+      internalID: 5102231138472735442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0828c8daf2302e846bbce3cf9b25dceb
+      internalID: 4328313216744736806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 329
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2523c04d48af246b67f611dbdd50be
+      internalID: 4434460537572490471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5437487bd9fa44b82042cad414da3
+      internalID: 1151130422867849203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ecc464afc3314091342fb23057101
+      internalID: 4794495215647749593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef41c69b22feec41a113575f160f31d
+      internalID: -759816588431874280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8ccadededb3904ebf96af9285d00d7
+      internalID: -3370196891770709928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd993897bcbd44a9876b2efe9bf40d
+      internalID: -6607461681689339391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2efce5dcd9fbd439e5168faa2a10a6
+      internalID: 5171474161467565021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b0ea848ebe9f48bb3adfcc3026a14
+      internalID: -6276120598218255134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e869e53a2ce9048829f3dd4f0c262d
+      internalID: 3203579478097968007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af4743e80be774f82a378d517ddbfa
+      internalID: 6215750202510248897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60077752a4800dc40bd0b37d182caee3
+      internalID: 9218896524239412104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 276
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59789099b695ef849b76568f0ed49931
+      internalID: -918870411059936249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbbe4d6c096bc4bb82732f6a8d3369
+      internalID: 1678438427262877195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db23c060196956469fdb5363fdfaa73
+      internalID: 8788370864502978465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef63ba9ac11ce9419b413298c7f9d1d
+      internalID: 7256971284550771540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3423dc2d57b5a064a975ec53870854bb
+      internalID: 5289967744972747424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a681e68aa37c40af712f310e8b3a4
+      internalID: 2611445487226579674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fcd7840ab945b4e88e04e80158b630
+      internalID: -4543759498279769039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8312e5c62f3bb4489d5c45e4d9c75f
+      internalID: -2491774464022691454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_29
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087bd7c16836d84195369f461d18c5d
+      internalID: 4728845027684342457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43e626eeea98f24c8b8567fbdb1cf1c
+      internalID: 2551444602162790318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4dc3030d9586649bc11a21357b9bab
+      internalID: -3286853305296849205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231d0ecb6e3a0f4089b518e18b3946a
+      internalID: 5520161261018369771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e38db223b71e4c987cad508beda6e
+      internalID: 5062574435401404345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d84178fb44fab438f29290ef925c21
+      internalID: -5176866348850985309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9262c57bce2ff48946327d016fe655
+      internalID: -7707869747022908536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd10bd33e2f8e448fd7544fbce7b5b
+      internalID: 4691440894498627988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2127c710bb5db42b46c448297fe272
+      internalID: -8704354940501430356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc5c1c2871af744da2c271f98e98a18
+      internalID: 555528339609312985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bead0a6fb6cd9f46b474bfc73e284e9
+      internalID: 732893058630241935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_40
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ef37830d1f20499ae1f948e537ec2
+      internalID: -7074630054901914493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec4d80528b7e54bbedbb4d5bcc6d8a
+      internalID: -7559627570074487207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d5aa64577b5ca4abbe95348a1987c3
+      internalID: 681896110899307351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_43
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 170
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f837ce32648bf4b47abe5aacb04e2248
+      internalID: -409279953336401346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 117
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33086f0844ef21048b53f7e05442a036
+      internalID: 8407600311241112670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 116
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52c1e170aef75418e76c2903bbd296
+      internalID: -139952061571088889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 117
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb39931cb8c5c4d9b92dd6214a202c
+      internalID: -3201810050376503201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 117
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac05d32113e53448de114be176bb07
+      internalID: 2718287576820560156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 115
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f357188096bbf14c8bcc10eac92ec5e
+      internalID: 3298366555633981455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_49
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 115
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160e60dff6c7a7248bebd267ab09b321
+      internalID: -4187946511303237006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 115
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b844373497128274890d482ad17e2d38
+      internalID: 5185283035469941270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_51
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 117
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812000d6a5dae341892f26d6c69bb1e
+      internalID: -1597508992995805689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 116
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933645b797735514d97bc1bc71337522
+      internalID: -1046052540572413818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 117
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75cf8b4875e5ac4481e9dc02a75af76
+      internalID: 3195392164536034297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_54
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 117
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93045e93387505849a1e3b321db0eccf
+      internalID: -6655326104553707258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69738f041591d164487c6e9b8e8fa5ba
+      internalID: -194492892125254085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ddb000c687ae94eba40d95a8aa3b81
+      internalID: 9081403521139139729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46586d7a4a961f4597ea62e1b4a01fc
+      internalID: 4367896947375877649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd30178875d7474bbcbfd01bbdbbe65
+      internalID: 6021062582233891187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16865f018dabac94488068d521c68e90
+      internalID: -4013489749455097834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc2c1c87b14254898465fb69252714
+      internalID: -8343380813051045204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd1c4bd99a54944691dc7c932ed08fb
+      internalID: -2147903206094740934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 64
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a80d245674908b4590ca2c77de3fb3d
+      internalID: 3090878248604568879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_63
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c2df240f3148438d5e28733b6edfd
+      internalID: 3045375345878701891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_64
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301444cb07912c4782b40a25739e7ca
+      internalID: 3961656197983161804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_65
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5db46cec3535f4cb3bf22975f84e78
+      internalID: 1760085832107714697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 13
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4127c2b5a865624eb90cf0149f98c53
+      internalID: 2688662943952650862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_67
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 12
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd12c3ad8f1c24d9e197d311ecc83b
+      internalID: -3867434549612895933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_68
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 13
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408666a888f15984987378a8020b1e00
+      internalID: -6723251913585074527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 12
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c551b0703628721438e6dff7fce18841
+      internalID: 9526384447171374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 12
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5277476b23b9ae047bc4b9828776e53e
+      internalID: 8111978439498424893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_71
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 12
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fedf32a9756c9c408cde3529238e4a6
+      internalID: -2954973505421928763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 12
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75003a8c89395443a4dd5005f0af469
+      internalID: -6843497866106769130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_73
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 12
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c60b75595b4245af35b55d4687943
+      internalID: 3522184644352460532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 12
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865d66e33d859f42af35000f1a427ff
+      internalID: -6478783148580377937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_75
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d07de0a2f1a4428940f13bf0c8552
+      internalID: -8054183839075772849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powers_76
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf51c87c46cfa649add8e0c26473b4b
+      internalID: -3624815564871111597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
