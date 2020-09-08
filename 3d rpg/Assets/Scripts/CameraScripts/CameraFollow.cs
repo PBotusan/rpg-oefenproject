@@ -50,6 +50,12 @@ public class CameraFollow : MonoBehaviour
     void LateUpdate()
     {
         MoveCamera();
+        ChangeCameraHeight();
+    }
+
+    private void ChangeCameraHeight()
+    {
+        
     }
 
     /// <summary>

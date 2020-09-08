@@ -59,6 +59,34 @@ public class PlayerController : MonoBehaviour
     private float height;
 
 
+    public bool FinishedMovement
+    {
+        get
+        {
+            return finishedMovement;
+        }
+        set
+        {
+            //FinishedMovement = finishedMovement; 
+            finishedMovement = value;
+        }
+
+    }
+
+    public Vector3 TargetPosition
+    {
+        get
+        {
+            return targetPosition;
+        }
+        set
+        {
+            targetPosition = value;
+        }
+    }
+
+
+
     // Start is called before the first frame update
     void Awake()
     {

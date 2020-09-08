@@ -294,3 +294,5 @@ C:\Users\User\Documents\GitHub\oefenproject\rpg-oefenproject\3d rpg\obj\Debug\As
 C:\Users\User\Documents\GitHub\oefenproject\rpg-oefenproject\3d rpg\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\User\Documents\GitHub\oefenproject\rpg-oefenproject\3d rpg\obj\Debug\Assembly-CSharp.dll
 C:\Users\User\Documents\GitHub\oefenproject\rpg-oefenproject\3d rpg\obj\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\GitHub\oefenproject\rpg-oefenproject\3d rpg\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+C:\Users\User\Documents\GitHub\oefenproject\rpg-oefenproject\3d rpg\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
