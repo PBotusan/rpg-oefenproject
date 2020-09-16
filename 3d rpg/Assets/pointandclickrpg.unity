@@ -138,13 +138,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24ec28f3614758d4f8eaddd7b909b9ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fillWaitImage:
-  - {fileID: 2128749788}
-  - {fileID: 394096594}
-  - {fileID: 1259603737}
-  - {fileID: 961069254}
-  - {fileID: 1132788640}
-  - {fileID: 558056706}
+  fillWaitImage1: {fileID: 1648968387}
+  fillWaitImage2: {fileID: 598891726}
+  fillWaitImage3: {fileID: 376538275}
+  fillWaitImage4: {fileID: 65944345}
+  fillWaitImage5: {fileID: 1225065480}
+  fillWaitImage6: {fileID: 2015253094}
 --- !u!4 &52123706 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1052758208384786926, guid: 102c0695f7cb04545820ccdebc17b93e,

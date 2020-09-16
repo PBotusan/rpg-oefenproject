@@ -11,8 +11,22 @@ public class PlayerAttack : MonoBehaviour
     /// All the attacks that are active in bar, use it to put in fadeImages
     /// </summary>
     [SerializeField]
-    private Image[] fillWaitImage;
+    private Image fillWaitImage1;
 
+    [SerializeField]
+    private Image fillWaitImage2;
+
+    [SerializeField]
+    private Image fillWaitImage3;
+
+    [SerializeField]
+    private Image fillWaitImage4;
+
+    [SerializeField]
+    private Image fillWaitImage5;
+
+    [SerializeField]
+    private Image fillWaitImage6;
 
     /// <summary>
     /// FadeImages when player clicks the attack button
@@ -78,7 +92,7 @@ public class PlayerAttack : MonoBehaviour
 
 
         CheckPlayerAttackInput();
-        CheckForCooldown(keyboardButton);
+        CheckForCooldown();
     }
 
     /// <summary>
@@ -100,7 +114,6 @@ public class PlayerAttack : MonoBehaviour
             }
 
             transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(targetPosition - transform.position), 15f * Time.deltaTime);
-
         }
     }
 
@@ -201,38 +214,81 @@ public class PlayerAttack : MonoBehaviour
 
             fadeImages[keyboardButton] = 1;
             playerAnimator.SetInteger("Attack", attackBasedOnInput);
+
+            
         }
     }
 
-
-    /// <summary>
-    /// 
-    /// </summary>
-    private void CheckForCooldown(int keyboardButton)
+    private void CheckForCooldown()
     {
-        if (keyboardButton != 0)
+        //todo dynamisch maken
+        if (fadeImages[0] == 1)
         {
-            attackImageCooldown = keyboardButton - 1;
-        }
-       
-        if (fadeImages[keyboardButton] == 1)
-        {
-            if (CooldownAttackIcon(fillWaitImage[attackImageCooldown], 1.0f))
+            if (CooldownAttackIcon(fillWaitImage1, 1.0f))
             {
                 // change to false
-                fadeImages[attackImageCooldown] = 0;
+                fadeImages[0] = 0;
             }
 
         }
-        
+
+        if (fadeImages[1] == 1)
+        {
+            if (CooldownAttackIcon(fillWaitImage2, 1.0f))
+            {
+                // change to false
+                fadeImages[1] = 0;
+            }
+
+        }
+
+        if (fadeImages[2] == 1)
+        {
+            if (CooldownAttackIcon(fillWaitImage3, 1.0f))
+            {
+                // change to false
+                fadeImages[2] = 0;
+            }
+
+        }
+
+        if (fadeImages[3] == 1)
+        {
+            if (CooldownAttackIcon(fillWaitImage4, 1.0f))
+            {
+                // change to false
+                fadeImages[3] = 0;
+            }
+
+        }
+
+        if (fadeImages[4] == 1)
+        {
+            if (CooldownAttackIcon(fillWaitImage5, 1.0f))
+            {
+                // change to false
+                fadeImages[4] = 0;
+            }
+
+        }
+
+        if (fadeImages[5] == 1)
+        {
+            if (CooldownAttackIcon(fillWaitImage6, 1.0f))
+            {
+                // change to false
+                fadeImages[5] = 0;
+            }
+
+        }
     }
 
-    bool CooldownAttackIcon(Image fadeImage, float fadeTime)
+    private bool CooldownAttackIcon(Image fadeImage, float fadeTime)
     {
         bool faded = false;
 
-        if(fadeImage == null)
-        return faded;
+        if (fadeImage == null)
+            return faded;
 
         if (!fadeImage.gameObject.activeInHierarchy)
         {
@@ -248,7 +304,8 @@ public class PlayerAttack : MonoBehaviour
             faded = true;
         }
 
-
         return faded;
     }
 }
+
+
