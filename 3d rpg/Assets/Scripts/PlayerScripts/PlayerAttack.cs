@@ -228,6 +228,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 // change to false
                 fadeImages[0] = 0;
+                playerAnimator.SetInteger("Atk", 1);
             }
 
         }
@@ -238,6 +239,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 // change to false
                 fadeImages[1] = 0;
+                playerAnimator.SetInteger("Atk", 2);
             }
 
         }
@@ -248,6 +250,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 // change to false
                 fadeImages[2] = 0;
+                playerAnimator.SetInteger("Atk", 3);
             }
 
         }
@@ -258,6 +261,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 // change to false
                 fadeImages[3] = 0;
+                playerAnimator.SetInteger("Atk", 4);
             }
 
         }
@@ -268,6 +272,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 // change to false
                 fadeImages[4] = 0;
+                playerAnimator.SetInteger("Atk", 5);
             }
 
         }
@@ -278,6 +283,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 // change to false
                 fadeImages[5] = 0;
+                playerAnimator.SetInteger("Atk", 6);
             }
 
         }
