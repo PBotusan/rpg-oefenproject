@@ -2880,12 +2880,12 @@ NavMeshAgent:
   m_AgentTypeID: 0
   m_Radius: 0.19
   m_Speed: 2
-  m_Acceleration: 8
+  m_Acceleration: 18
   avoidancePriority: 50
   m_AngularSpeed: 360
   m_StoppingDistance: 0
   m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
+  m_AutoBraking: 0
   m_AutoRepath: 1
   m_Height: 2
   m_BaseOffset: -0.09
@@ -2903,6 +2903,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e847bd3f02db7a34c88060e0c1bbdcfc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerTarget: {fileID: 0}
+  characterController: {fileID: 1768164086191906}
+  animator: {fileID: 1768164086191909}
+  navAgent: {fileID: 1768164086191907}
+--- !u!95 &1768164086191909 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5919115972369274603, guid: 8035c6e8221fd644fa6d68e903884893,
+    type: 3}
+  m_PrefabInstance: {fileID: 6014286070586187868}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6014286070586187868
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2973,6 +2983,11 @@ PrefabInstance:
     - target: {fileID: 6015069691781145203, guid: 8035c6e8221fd644fa6d68e903884893,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5919115972369274603, guid: 8035c6e8221fd644fa6d68e903884893,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

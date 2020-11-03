@@ -17,6 +17,8 @@ public enum EnemyState
 }
 
 
+
+
 public class EnemyController : MonoBehaviour
 {
     /// <summary>
@@ -61,7 +63,7 @@ public class EnemyController : MonoBehaviour
     /// <summary>
     /// The target used to target the player
     /// </summary>
-    private Transform playerTarget;
+    [SerializeField] Transform playerTarget;
 
 
     /// <summary>
@@ -85,7 +87,7 @@ public class EnemyController : MonoBehaviour
     /// <summary>
     /// Charactercontroller used for enemy
     /// </summary>
-    private CharacterController characterController;
+    [SerializeField] CharacterController characterController;
 
 
     /// <summary>
@@ -97,7 +99,7 @@ public class EnemyController : MonoBehaviour
     /// <summary>
     /// Current attack time
     /// </summary>
-    private float currentTime;
+    private float currentAttackTime;
 
 
     /// <summary>
@@ -109,7 +111,7 @@ public class EnemyController : MonoBehaviour
     /// <summary>
     /// animator used by enemy
     /// </summary>
-    private Animator animator;
+    [SerializeField] Animator animator;
 
 
     /// <summary>
@@ -126,7 +128,7 @@ public class EnemyController : MonoBehaviour
     /// <summary>
     /// navigation agent used by enemy.
     /// </summary>
-    private NavMeshAgent navAgent;
+    [SerializeField] NavMeshAgent navAgent;
 
     /// <summary>
     /// Navigate to this point.
@@ -149,10 +151,10 @@ public class EnemyController : MonoBehaviour
             initialPosition = transform.position;
             navigateTo = transform.position;
         }
-        catch (System.Exception exception)
+        catch (System.Exception message)
         {
 
-            Debug.Log(exception);
+            Debug.Log(message);
         }
         
     }
@@ -264,16 +266,92 @@ public class EnemyController : MonoBehaviour
     {
         if (EnemyCurrentState == EnemyState.RUN || enemyCurrentState == EnemyState.PAUSE)
         {
-            if (enemyCurrentState != EnemyState.ATTACK) 
+            if (enemyCurrentState != EnemyState.ATTACK)
             {
                 Vector3 targetPosition = new Vector3(playerTarget.position.x, playerTarget.position.y, playerTarget.position.z);
 
-                animator.SetBool("Walk", false);
-                animator.SetBool("Run", true);
 
-                navAgent.SetDestination(targetPosition);
+                if (Vector3.Distance(transform.position, targetPosition) >= 2.1f)
+                {
+                    animator.SetBool("Walk", false);
+                    animator.SetBool("Run", true);
+
+                    navAgent.SetDestination(targetPosition);
+                }
+                
             }
 
         }
+        else if (EnemyCurrentState == EnemyState.ATTACK)
+        {
+            animator.SetBool("Run", false);
+            MoveTo.Set(0f, 0f, 0f);
+
+            navAgent.SetDestination(transform.position);
+            transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(playerTarget.position - transform.position), 5f * Time.deltaTime);
+
+            //Check if you  can attack player
+            if (currentAttackTime >= waitAttackTime)
+            {
+                int attackRange = UnityEngine.Random.Range(1, 3);
+
+                animator.SetInteger("Atk", attackRange);
+                Debug.Log("Enemy attacks with = " + attackRange);
+
+                finished_Animation = false;
+                currentAttackTime = 0f;
+            }
+            else
+            {
+                animator.SetInteger("atk", 0);
+                currentAttackTime += Time.deltaTime;
+
+            }
+        }
+        else if (EnemyCurrentState == EnemyState.GOBACK)
+        {
+            animator.SetBool("Run", true);
+            Vector3 targetPosition = new Vector3(initialPosition.x, initialPosition.y, initialPosition.z);
+
+            navAgent.SetDestination(targetPosition);
+
+            if (Vector3.Distance(targetPosition, initialPosition) <= 3.5f)
+            {
+                enemyLastState = enemyCurrentState;
+                enemyCurrentState = EnemyState.WALK;
+            }
+        }
+        else if (EnemyCurrentState == EnemyState.WALK)
+        {
+            animator.SetBool("Run", false);
+            animator.SetBool("Walk", true);
+
+            //random path walking
+            if (Vector3.Distance(transform.position, navigateTo) <= 2f)
+            {
+                navigateTo.x = UnityEngine.Random.Range(initialPosition.x - 10f, initialPosition.x + 10f);
+                navigateTo.z = UnityEngine.Random.Range(initialPosition.z - 5f, initialPosition.z + 5f);
+   
+            }
+            else
+            {
+                navAgent.SetDestination(navigateTo);
+               
+            }
+        }
+        else
+        {
+            animator.SetBool("Run", false);
+            animator.SetBool("Walk", false);
+
+            MoveTo.Set(0f, 0f, 0f);
+            navAgent.isStopped = true;
+
+        }
+
+        
+
     }
+
+
 }
