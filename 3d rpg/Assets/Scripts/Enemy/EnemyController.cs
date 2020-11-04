@@ -151,10 +151,12 @@ public class EnemyController : MonoBehaviour
             initialPosition = transform.position;
             navigateTo = transform.position;
         }
-        catch (System.Exception message)
+        catch (System.Exception exception)
         {
 
-            Debug.Log(message);
+            Debug.Log(exception);
+            Debug.Log(exception.Message);
+            Debug.Log(exception.Source);
         }
         
     }
@@ -167,8 +169,6 @@ public class EnemyController : MonoBehaviour
         try
         {
             CurrentEnemyState();
-
-
 
         }
         catch (System.Exception exception)

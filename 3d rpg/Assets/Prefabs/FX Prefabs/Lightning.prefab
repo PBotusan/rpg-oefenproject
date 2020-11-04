@@ -40,6 +40,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4111129288310284}
   - component: {fileID: -5003580497034736345}
+  - component: {fileID: -904281661993885834}
   m_Layer: 0
   m_Name: Lightning
   m_TagString: explosion
@@ -76,6 +77,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 5
+--- !u!114 &-904281661993885834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1164094381172014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9067e6dfb1cea7a40978b842cce2ec9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  radius: 0.5
+  damageCount: 10
 --- !u!1 &1167499498275720
 GameObject:
   m_ObjectHideFlags: 0
