@@ -5,17 +5,18 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
+
     /// <summary>
     /// Camera follow height
     /// </summary>
     [SerializeField]
-    private float followHeight = 8f;
+    private float followHeight = 12f;
 
     /// <summary>
     /// Distance for follow camera
     /// </summary>
     [SerializeField]
-    private float followDistance = 6f;
+    private float followDistance = 12f;
 
     /// <summary>
     /// Use player transform for current player position
@@ -46,6 +47,8 @@ public class CameraFollow : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
+ 
+
     // Update is called once per frame
     void LateUpdate()
     {
@@ -55,7 +58,18 @@ public class CameraFollow : MonoBehaviour
 
     private void ChangeCameraHeight()
     {
-        
+        if (Input.GetButtonDown("Scroll"))
+        {
+
+        }
+        else if (Input.GetButtonDown("Scroll"))
+        {
+
+        }
+        else
+        {
+
+        }
     }
 
     /// <summary>

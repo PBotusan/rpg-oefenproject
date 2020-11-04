@@ -92,8 +92,8 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 256
-  radius: 0.5
-  damageCount: 10
+  radius: 2
+  damageAmount: 10
 --- !u!1 &1167499498275720
 GameObject:
   m_ObjectHideFlags: 0

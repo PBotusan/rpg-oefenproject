@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class PlayerDamage : MonoBehaviour
 {
+    
+
     /// <summary>
     /// Layer used for enemy
     /// </summary>

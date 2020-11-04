@@ -4,8 +4,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+ 
+
 public class PlayerAttack : MonoBehaviour
 {
+
+    private UserInputStrings.KeyboardNumberStrings keyboardString;
 
     /// <summary>
     /// All the attacks that are active in bar, use it to put in fadeImages
@@ -134,7 +138,7 @@ public class PlayerAttack : MonoBehaviour
         }
 
 
-        if (Input.GetButtonDown("KeyBoard1"))
+        if (Input.GetButtonDown(keyboardString.Keyboard1))
         {
             playerMove.TargetPosition = transform.position;
             keyboardButton = 0;
@@ -142,7 +146,7 @@ public class PlayerAttack : MonoBehaviour
             UseAttack(keyboardButton);
             Debug.Log("Key 1 pressed");
         }
-        else if (Input.GetButtonDown("KeyBoard2"))
+        else if (Input.GetButtonDown(keyboardString.Keyboard2))
         {
             playerMove.TargetPosition = transform.position;
             keyboardButton = 1;
@@ -150,7 +154,7 @@ public class PlayerAttack : MonoBehaviour
             UseAttack(keyboardButton);
             Debug.Log("Key 2 pressed");
         }
-        else if (Input.GetButtonDown("KeyBoard3"))
+        else if (Input.GetButtonDown(keyboardString.Keyboard3))
         {
             playerMove.TargetPosition = transform.position;
             keyboardButton = 2;
@@ -158,7 +162,7 @@ public class PlayerAttack : MonoBehaviour
             UseAttack(keyboardButton);
             Debug.Log("Key 3 pressed");
         }
-        else if (Input.GetButtonDown("KeyBoard4"))
+        else if (Input.GetButtonDown(keyboardString.Keyboard4))
         {
             playerMove.TargetPosition = transform.position;
             keyboardButton = 3;
@@ -166,7 +170,7 @@ public class PlayerAttack : MonoBehaviour
             UseAttack(keyboardButton);
             Debug.Log("Key 4 pressed");
         }
-        else if (Input.GetButtonDown("KeyBoard5"))
+        else if (Input.GetButtonDown(keyboardString.Keyboard5))
         {
             playerMove.TargetPosition = transform.position;
             keyboardButton = 4;
@@ -174,7 +178,7 @@ public class PlayerAttack : MonoBehaviour
             UseAttack(keyboardButton);
             Debug.Log("Key 5 pressed");
         }
-        else if (Input.GetButtonDown("KeyBoard6"))
+        else if (Input.GetButtonDown(keyboardString.Keyboard6))
         {
             playerMove.TargetPosition = transform.position;
             keyboardButton = 5;
@@ -201,7 +205,7 @@ public class PlayerAttack : MonoBehaviour
         if (playerMove.FinishedMovement && canAttack)
         {
             //keyboardbutton is based on array value. need + 1 to make it correct. 
-            playerAnimator.SetInteger("Attack", 7);
+            playerAnimator.SetInteger("Attack", 0);
         }
     }
 
